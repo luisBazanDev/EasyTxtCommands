@@ -1,0 +1,7 @@
+name: EasyTxtCommands
+version: '${project.version}'
+main: com.github.sintcraft.easytxtcommands.EasyTxtCommands
+api-version: 1.19
+depend: [ CommandAPI ]
+authors: [ sintcraft ]
+description: Other plugin for minecraft
