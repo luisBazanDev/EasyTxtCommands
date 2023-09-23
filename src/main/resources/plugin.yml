@@ -4,4 +4,4 @@ main: com.github.sintcraft.easytxtcommands.EasyTxtCommands
 api-version: 1.19
 depend: [ CommandAPI ]
 authors: [ sintcraft ]
-description: Other plugin for minecraft
+description: A Minecraft plugin to place commands easily and simply so that players only receive a message with useful information.

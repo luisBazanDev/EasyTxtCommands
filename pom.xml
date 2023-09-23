@@ -73,8 +73,8 @@
     </dependency>
     <dependency>
       <groupId>dev.jorel</groupId>
-      <artifactId>commandapi-core</artifactId>
-      <version>7.0.0</version>
+      <artifactId>commandapi-bukkit-core</artifactId>
+      <version>9.1.0</version>
       <scope>provided</scope>
     </dependency>
   </dependencies>
